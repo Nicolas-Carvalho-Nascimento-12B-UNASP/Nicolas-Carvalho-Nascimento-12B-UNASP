@@ -1,7 +1,7 @@
-### Oi eu sou o Nicolas👋
+### Oi, eu sou o Nick👋
 
-- 🔭 Aprendiz de Front-End, UX & Design
-- 📫 Contate-me no email: nickcarva31@gmail.com
+- 🔭 Aprendiz de TI
+- 📫 Contato no email: nickcarva31@gmail.com
 
 <div align="center">
   <a href="https://github.com/Nickxxn">
